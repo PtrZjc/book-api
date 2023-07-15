@@ -1,8 +1,8 @@
-package pl.coderslab.beans;
+package pl.coderslab.adapter;
 
 import org.springframework.stereotype.Repository;
-import pl.coderslab.model.Book;
-import pl.coderslab.model.BookRepository;
+import pl.coderslab.domain.Book;
+import pl.coderslab.domain.BookRepository;
 
 import java.util.ArrayList;
 import java.util.HashMap;

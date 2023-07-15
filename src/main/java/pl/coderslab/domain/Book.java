@@ -1,4 +1,4 @@
-package pl.coderslab.model;
+package pl.coderslab.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
